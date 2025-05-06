@@ -1,0 +1,9 @@
+[submodule "Java/developer-joyofenergy-java"]
+	path = Java/developer-joyofenergy-java
+	url = https://github.com/chinmayachinu/developer-joyofenergy-java.git
+[submodule "SpringDataJDBC"]
+	path = SpringDataJDBC
+	url = https://github.com/chinmayachinu/SpringDataJDBC.git
+[submodule "SpringGraphql/graphqldemo"]
+	path = SpringGraphql/graphqldemo
+	url = https://github.com/chinmayachinu/graphqldemo.git
