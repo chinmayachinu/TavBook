@@ -1,24 +1,0 @@
-
-7
-java:S1220""Move this file to a named package.8À¥ÔÛ1
-L
-java:S3010"/Remove this assignment of "someStaticVariable".(„¼¿¢8È¥ÔÛ1
-Q
-java:S3010"/Remove this assignment of "someStaticVariable".(òŒá²ÿÿÿÿÿ8É¥ÔÛ1
-Q
-java:S3010"/Remove this assignment of "someStaticVariable".(ğİúıÿÿÿÿ8É¥ÔÛ1
-Z
-java:S1854,"8Remove this useless assignment to local variable "data".(¯ÙÂÛüÿÿÿÿ8Ê¥ÔÛ1
-L	java:S106"+Replace this use of System.out by a logger.(¦äàùûÿÿÿÿ8Ê¥ÔÛ1
-L	java:S106 "+Replace this use of System.out by a logger.(ìİŸ×øÿÿÿÿ8Ê¥ÔÛ1
-K
-java:S1481,")Remove this unused "data" local variable.(¯ÙÂÛüÿÿÿÿ8Ì¥ÔÛ1
-G	java:S106>"+Replace this use of System.out by a logger.(Õ¾–å8Í¥ÔÛ1
-G	java:S106?"+Replace this use of System.out by a logger.(¡Ş¶±8Í¥ÔÛ1
-L	java:S106K"+Replace this use of System.out by a logger.(çÔöŒÿÿÿÿÿ8Î¥ÔÛ1
-J
-java:S3010T"(Remove this assignment of "collegeName".(±“¿ûÿÿÿÿ8Î¥ÔÛ1
-G	java:S106U"+Replace this use of System.out by a logger.(¼æö¨8Î¥ÔÛ1
-Z
-java:S1117Y"8Rename "name" which hides the field declared at line 70.(ÎÌáëşÿÿÿÿ8Î¥ÔÛ1
-L	java:S106^"+Replace this use of System.out by a logger.(¿ÔŸŒùÿÿÿÿ8Ï¥ÔÛ1

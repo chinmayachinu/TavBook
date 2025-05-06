@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/SpringDataJDBC" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SpringDataJDBC/spring-data-jdbc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SpringGraphql/graphqldemo" vcs="Git" />
-  </component>
-</project>

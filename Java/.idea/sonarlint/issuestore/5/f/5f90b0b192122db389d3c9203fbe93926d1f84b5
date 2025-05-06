@@ -1,13 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê‘±Ã8Ÿè²€ï1
-L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8©è²€ï1
-G	java:S106"+Replace this use of System.out by a logger.(ø¼¸±8ªè²€ï1
-G	java:S106"+Replace this use of System.out by a logger.(Ëç×—8ªè²€ï1
-F	java:S106"+Replace this use of System.out by a logger.(Ã•ŸG8ªè²€ï1
-G	java:S106+"+Replace this use of System.out by a logger.(ø¼¸±8«è²€ï1
-G	java:S106."+Replace this use of System.out by a logger.(Ëç×—8«è²€ï1
-G	java:S1061"+Replace this use of System.out by a logger.(ÂÁ¯¦8«è²€ï1
-L	java:S1065"+Replace this use of System.out by a logger.(µƒÿÿÿÿÿ8«è²€ï1
-]	java:S1254"<This block of commented-out lines of code should be removed.(¾—ùÜùÿÿÿÿ8«è²€ï1
-~
-java:S1144"aRemove this unused private "is7DaysBeforeCheckInWindowCheckSatisfiedNotWorkingAsPerLogic" method.(‰ê˜8úø·€ï1
