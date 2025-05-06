@@ -1,0 +1,8 @@
+
+p
+java:S2637"NParameter 1 to this constructor is marked "@NonNull" but null could be passed.(÷œô¡ıÿÿÿÿ8ÂÚêÉ©1
+b
+java:S2637"EThis method's return value is marked "@NonNull" but null is returned.(¥¹ï8ÁÚêÉ©1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êùƒ‰8ÃÚêÉ©1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯½ÿ°ûÿÿÿÿ8ÃÚêÉ©1
+T	java:S106"9Replace this use of System.out or System.err by a logger.( ”÷'8ÃÚêÉ©1

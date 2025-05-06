@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8µò¿œ²1
+L	java:S106"+Replace this use of System.out by a logger.(Ìù‡Úûÿÿÿÿ8¹ò¿œ²1
+G	java:S106"+Replace this use of System.out by a logger.(÷ýÅô8¹ò¿œ²1
+O
+java:S2387"-"a" is the name of a field in "SuperExample".(Î¶å°ÿÿÿÿÿ8¹ò¿œ²1
+G	java:S106 "+Replace this use of System.out by a logger.(Š²´Š8ºò¿œ²1
+L	java:S106%"+Replace this use of System.out by a logger.(ô ÁÆÿÿÿÿÿ8ºò¿œ²1
+L	java:S106'"+Replace this use of System.out by a logger.(ØÔÓÒúÿÿÿÿ8ºò¿œ²1
+L	java:S106("+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8ºò¿œ²1
